@@ -1,0 +1,26 @@
+/* CONTAINER'S */
+
+.container{
+    padding: 40px;
+    margin-left: 120px;
+    width: 850px;
+    border-radius: 5px;
+}
+
+/* ----------------------------------------------------- */
+
+
+/* BOX'S */
+
+.box{
+    padding: 40px;
+    margin-left: 70px;
+    width: 1000px;
+    border-radius: 10px;
+}
+
+/* ------------------------------------------------------ */
+
+
+
+/* TEXTOS - P, ECT... */

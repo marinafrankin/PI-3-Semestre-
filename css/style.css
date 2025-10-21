@@ -1,0 +1,51 @@
+/* CONTAINER'S */
+
+.container{
+    padding: 40px;
+    margin-left: 120px;
+    width: 850px;
+    border-radius: 5px;
+}
+
+.container_coler{
+    margin-left: 230px;
+    padding: 5px;
+    width: 850px;
+    background-color: #85AAF6;
+    border-radius: 5px;
+}
+
+.container_desenvolvedores{
+    padding: 100px;
+    width: 1306px;
+    background-color: #3f3f3f;
+}
+
+/* ----------------------------------------------------- */
+
+
+/* BOX'S */
+
+.box{
+    padding: 40px;
+    margin-left: 70px;
+    width: 1000px;
+    border-radius: 10px;
+}
+
+.box_telefone{
+    padding: 40px;
+    margin-left: 10px;
+    width: 1000px;
+    border-radius: 10px;
+}
+
+/* ------------------------------------------------------ */
+
+
+
+/* TEXTOS - P, ECT... */
+
+.p_telefone{
+    color: rgb(255, 255, 255);
+}

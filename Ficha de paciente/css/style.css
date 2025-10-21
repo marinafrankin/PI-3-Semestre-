@@ -1,0 +1,75 @@
+
+
+/* LINHAS */
+hr {
+  border: 0; 
+  height: 1px; /* Define a altura/espessura da linha */
+
+  /* Define a cor e o estilo da linha */
+  border-top: 1px solid #747474; /* Cor cinza clara */
+  margin: 20px 0; /* Espaçamento vertical acima e abaixo da linha */
+}
+
+/* ------------------------------------------------------------- */
+
+
+/* MENU */
+header{
+    height: 80px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+footer{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+}
+
+.nav{
+    height: 100%;
+    width: 100%;
+}
+
+.menu{
+    list-style: none;
+}
+
+.menu li{
+    display: inline-block;
+    margin: 50px;
+    padding-top: 25px;
+}
+
+.menu li a{
+    text-decoration: none;
+    font-weight: 900;
+    border-radius: 20px;
+}
+
+/* ----------------------------------------------------------------- */
+
+
+/* CONTAINER */
+.container{
+    margin: 0 auto;
+    padding: 0 20px;
+    height: 100px;
+    width: 100px;
+    justify-content:center ; /*Espaça os itens uniformemente*/
+}
+
+/* --------------------------------------------------------------------------- */
+
+/* BOX'S */
+.box{
+    background-color: #d5d5d5;
+    padding: 40px;
+    margin-left: 120px;
+    width: 850px;
+    border-radius: 5px;
+}
